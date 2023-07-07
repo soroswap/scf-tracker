@@ -68,7 +68,7 @@ ___
 
 **Reviewer Instructions:** Check https://soroban-react.gitbook.io
 
-**Result:** Competed 👍. Check https://soroban-react.gitbook.io
+**Result:** Competed 👍. Worked in collaboration with @mauroepece to implement typedoc + other scripts. Worked in PR [#43](https://github.com/esteblock/soroban-react/pull/43), [#42](https://github.com/esteblock/soroban-react/pull/42)  and [#37](https://github.com/esteblock/soroban-react/pull/37). Documentation available in  https://soroban-react.gitbook.io
 
 
 ___
@@ -91,7 +91,7 @@ ___
 
 **Result:**
 - 👍 Repository available at https://github.com/soroswap/frontend. 
-- ❓ (pending) Also in https://soroswap.finance (pending). 
+- ❓ (pending) Also in https://soroswap.finance. Check https://github.com/soroswap/frontend/issues/32
 - ❓ (pending) Documentation on how to deploy contracts in frontend repo is pending. See https://github.com/soroswap/frontend/issues/31
 - 👍 Wallet is connected. Currently supporting Freighter.
 - 👍 User balance of tokens is displayed for all tokens and paris
@@ -109,7 +109,7 @@ ___
 **Result:** 
 - ❓ (pending) Fetch best price. Check https://github.com/soroswap/frontend/issues/33
 - ❓ (pending) Give expected amount. Check https://github.com/soroswap/frontend/issues/15
-- ❓ (pending) Calculate splippae. Check https://github.com/soroswap/frontend/issues/34
+- ❓ (pending) Calculate splippage. Check https://github.com/soroswap/frontend/issues/34
 - ❓ (pending) Give minimum received after splippage. Check https://github.com/soroswap/frontend/issues/34
 - 👍 Provide liquidity: Several pairs are available
 - 👍 Provide liquidity: Show user balance
@@ -128,7 +128,7 @@ ___
 
 **Reviewer Instructions:** Script in https://github.com/soroswap/core, contract addresses in docs.soroswap.finance. Front-end in soroswap.finance
 
-**Result:** ❓ (pending). Check https://github.com/soroswap/core/issues/45
+**Result:** ❓ (pending). Scripts exist and are working. Just pending to support both standalone and futurenet at the same time. Check https://github.com/soroswap/core/issues/45 and https://github.com/soroswap/frontend/issues/32
 
 Pending hours: 15
 ___
