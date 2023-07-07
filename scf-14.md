@@ -16,7 +16,7 @@ ___
 
 **Reviewer Instructions:** Reviewer clones https://github.com/soroswap/core and follows the instructions to run unit and integration tests. Check docs issue #1
 
-**Result:** Competed ✅. Now we have a Factory and a Pair contract. Check the core repo.
+**Result:** Competed 👍. Now we have a Factory and a Pair contract. Check the core repo.
 ___
 
 
@@ -26,7 +26,7 @@ ___
 **Reviewer Instructions:** Reviewer visits https://github.com/soroswap/docs or docs.soroswap.finance where there will be an article about this tutorial. The tutorial will also be published in https://dev.to/ and will be shared with the community in the Stellar Developers Discord.
 
 
-**Result:** Competed ✅. Check https://docs.soroswap.finance/03-interact-with-contracts  and the Soroswap.Finance Introduction Series https://dev.to/esteblock/series/22986 
+**Result:** Competed 👍. Check https://docs.soroswap.finance/03-interact-with-contracts  and the Soroswap.Finance Introduction Series https://dev.to/esteblock/series/22986 
 ___
 
 ## Deliverable 2: Choose and implement new UniswapV2 functionalities
@@ -37,7 +37,7 @@ ___
 
 **Reviewer Instructions:** Reviewer visits https://github.com/soroswap/docs or docs.soroswap.finance to read the article about the decisions made. Finds the Litepaper. 
 
-**Result:** Competed ✅. Check https://docs.soroswap.finance/01-concepts/02-design-decisions and https://docs.soroswap.finance/02-soroswap-litepaper
+**Result:** Competed 👍. Check https://docs.soroswap.finance/01-concepts/02-design-decisions and https://docs.soroswap.finance/02-soroswap-litepaper
 
 ___
 ### Deliverable 2.2
@@ -46,7 +46,7 @@ ___
 
 **Reviewer Instructions:** Reviewer goes to https://github.com/soroswap/core and sees the new functionalities have been implemented correctly.  Clones the repo and test. Check core issue #4
 
-**Result:** Competed ✅. Check the core repo.
+**Result:** Competed 👍. Check the core repo.
 ___
 
 # Deliverable 4: Support for @soroban-react, a multichain library with documentation and tutorials
@@ -58,7 +58,7 @@ ___
 
 **Reviewer Instructions:** Verifier clones https://github.com/esteblock/soroban-react and sees that the library has been updated to Preview 8 and that supports multichain dApps. The multichain example dapp will be published in https://soroban-react.gitbook.io.
 
-**Result:** Competed ✅. Currently supporting Preview 9. Multichain support is Ok. Check the multichain dapp here: https://github.com/esteblock/multichain-dapp. Featured as a Key Feature in the library's document page: https://soroban-react.gitbook.io/index/
+**Result:** Competed 👍. Currently supporting Preview 9. Multichain support is Ok. Check the multichain dapp here: https://github.com/esteblock/multichain-dapp. Featured as a Key Feature in the library's document page: https://soroban-react.gitbook.io/index/
 
 
 ___
@@ -68,7 +68,7 @@ ___
 
 **Reviewer Instructions:** Check https://soroban-react.gitbook.io
 
-**Result:** Competed ✅. Check https://soroban-react.gitbook.io
+**Result:** Competed 👍. Check https://soroban-react.gitbook.io
 
 
 ___
@@ -78,7 +78,7 @@ ___
 
 **Reviewer Instructions:** 
 
-**Result:** Competed ✅. 
+**Result:** Competed 👍. 
 
 
 ## Deliverable 5: Prepare front-end for only 1 Pair of tokens
@@ -90,11 +90,11 @@ ___
 **Reviewer Instructions:** Reviewer clones https://github.com/soroswap/frontend and follows the instructions to deploy contracts and front-end locally. Relevant sections are identified and unused code is removed from the front-end. Wallet is connected, user address and user balance of both tokens is displayed for 1 pair. Check interface issue #1
 
 **Result:**
-- ✅ Repository available at https://github.com/soroswap/frontend. 
+- 👍 Repository available at https://github.com/soroswap/frontend. 
 - ❓ (pending) Also in https://soroswap.finance (pending). 
 - ❓ (pending) Documentation on how to deploy contracts in frontend repo is pending. See https://github.com/soroswap/frontend/issues/31
-- ✅ Wallet is connected. Currently supporting Freighter.
-- ✅ User balance of tokens is displayed for all tokens and paris
+- 👍 Wallet is connected. Currently supporting Freighter.
+- 👍 User balance of tokens is displayed for all tokens and paris
 
 Pending hours (aprox): 10
 
@@ -111,9 +111,9 @@ ___
 - ❓ (pending) Give expected amount. Check https://github.com/soroswap/frontend/issues/15
 - ❓ (pending) Calculate splippae. Check https://github.com/soroswap/frontend/issues/34
 - ❓ (pending) Give minimum received after splippage. Check https://github.com/soroswap/frontend/issues/34
-- ✅ Provide liquidity: Several pairs are available
-- ✅ Provide liquidity: Show user balance
-- ✅ Provide liquidity: Calculate optimal amount of token B of input. Check. https://github.com/soroswap/frontend/issues/9
+- 👍 Provide liquidity: Several pairs are available
+- 👍 Provide liquidity: Show user balance
+- 👍 Provide liquidity: Calculate optimal amount of token B of input. Check. https://github.com/soroswap/frontend/issues/9
 -❓ (pending) Provide liquidity: Give number of LP tokens to receive. https://github.com/soroswap/frontend/issues/12
 - ❓ (pending) Provide liquidity: Give share of pool (%) to receive. https://github.com/soroswap/frontend/issues/12
 
@@ -138,7 +138,7 @@ ___
 
 **Reviewer Instructions:** https://github.com/soroswap/frontend
 
-**Result:** ✅ Completed. Currently supporting @soroban-react version 5.3.12 & soroban-client version 8.0.1
+**Result:** 👍 Completed. Currently supporting @soroban-react version 5.3.12 & soroban-client version 8.0.1
 
 ___
 ## Deliverable 7: 
