@@ -2,9 +2,9 @@
 
 Check the sumbission [here](https://communityfund.stellar.org/projects/soroswap-protocol-scf-14)
 
-- Pending equivalent expected hous: 70 (1,7 weeks)
+- Pending equivalent expected hous: 65 (1,625 weeks)
 - Total expected: 480
-- Total completed (%): 85,4%
+- Total completed (%): 86,4%
 
 
 # Deliverables:
@@ -147,6 +147,13 @@ ___
 
 **Reviewer Instructions:** Check https://github.com/esteblock/soroban-react/issues/10
 
-**Result:** ❓ (pending). Check  https://github.com/esteblock/soroban-react/issues/10
+**Result:** 👍 Completed the most important packages. Check https://github.com/esteblock/soroban-react/issues/10
 
-Pending hours: 5
+- 👍 Testing @soroban-react/core
+- 👍 Testing @soroban-react/contracts
+- 👍 Testing @soroban-react/chains
+- 👍 Testing @soroban-react/events
+- (just API implementation) @soroban-react/freighter
+- (only type definition) @soroban-react/types
+- (unsupported package) @soroban-react/connect-button 
+- (unsupported package) @soroban-react/wallet-data
