@@ -91,8 +91,8 @@ ___
 
 **Result:**
 - 👍 Repository available at https://github.com/soroswap/frontend. 
-- ❓ (pending) Also in https://soroswap.finance. Check https://github.com/soroswap/frontend/issues/32
-- ❓ (pending) Documentation on how to deploy contracts in frontend repo is pending. See https://github.com/soroswap/frontend/issues/31
+- 👍 Also in https://soroswap.finance. Check https://github.com/soroswap/frontend/issues/32
+- 👍 Documentation on how to deploy contracts in frontend repo is pending. See https://github.com/soroswap/frontend/issues/31
 - 👍 Wallet is connected. Currently supporting Freighter.
 - 👍 User balance of tokens is displayed for all tokens and paris
 
@@ -107,15 +107,15 @@ ___
 **Reviewer Instructions:** Reviewer clones the project and checks.
 
 **Result:** 
-- ❓ (pending) Fetch best price. Check https://github.com/soroswap/frontend/issues/33
-- ❓ (pending) Give expected amount. Check https://github.com/soroswap/frontend/issues/15
-- ❓ (pending) Calculate splippage. Check https://github.com/soroswap/frontend/issues/34
-- ❓ (pending) Give minimum received after splippage. Check https://github.com/soroswap/frontend/issues/34
+- 👍 Fetch best price. Check https://github.com/soroswap/frontend/issues/33
+- 👍 Give expected amount. Check https://github.com/soroswap/frontend/issues/15
+- 👍 Calculate price impact (don't splippage yet) . Check https://github.com/soroswap/frontend/issues/34
+- 👍 Give minimum received after price impact (don't splippage yet). Check https://github.com/soroswap/frontend/issues/34
 - 👍 Provide liquidity: Several pairs are available
 - 👍 Provide liquidity: Show user balance
 - 👍 Provide liquidity: Calculate optimal amount of token B of input. Check. https://github.com/soroswap/frontend/issues/9
--❓ (pending) Provide liquidity: Give number of LP tokens to receive. https://github.com/soroswap/frontend/issues/12
-- ❓ (pending) Provide liquidity: Give share of pool (%) to receive. https://github.com/soroswap/frontend/issues/12
+- 👍 Provide liquidity: Give number of LP tokens to receive.
+- 👍 Provide liquidity: Give share of pool (%) to receive.
 
 
 Pending hours: 40
@@ -128,7 +128,7 @@ ___
 
 **Reviewer Instructions:** Script in https://github.com/soroswap/core, contract addresses in docs.soroswap.finance. Front-end in soroswap.finance
 
-**Result:** ❓ (pending). Scripts exist and are working. Just pending to support both standalone and futurenet at the same time. Check https://github.com/soroswap/core/issues/45 and https://github.com/soroswap/frontend/issues/32
+**Result:** 👍. Scripts exist and are working. Check https://github.com/soroswap/core/issues/45 and https://github.com/soroswap/frontend/issues/32
 
 Pending hours: 15
 ___
