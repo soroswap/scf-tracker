@@ -64,7 +64,7 @@ ___
 **Result:** https://github.com/soroswap/docs/issues/11
 ___
 
-# Deliverable 2: Partnerships and  inter-protocol integrations
+# Deliverable 3: Partnerships and  inter-protocol integrations
 
 ___
 ### Deliverable 3.1
