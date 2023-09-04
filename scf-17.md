@@ -140,11 +140,7 @@ Steps:
 
 Check Screenshots: https://discord.com/channels/897514728459468821/1108150952499880061/1144588352616681584
 
-<<<<<<< HEAD
 Check the Figma [here](https://www.figma.com/file/sJ13aToLx8LnnFijBHzM73/Soroswap-Finance--WebPage---SCF-Deliverable?type=design&node-id=2040%3A3342&mode=design&t=wBw4VexObbjgHuQP-1)
-=======
-Check the Figma file [here](./src/Soroswap%20Finance%20WebPage%20-%20SCF%20Deliverable.fig)
->>>>>>> d2226bd78537b02234fc88754607f3c3fe798e50
 
 ___
 ### Deliverable 5.2
