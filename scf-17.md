@@ -122,7 +122,7 @@ ___
 
 ## Deliverable 5: Enhance the user interface.
 ___
-### Deliverable 5.1
+### ✅ Deliverable 5.1
 
 **Description:** Create the first version of the UX/UI design.
 Steps:
