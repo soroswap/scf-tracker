@@ -135,8 +135,12 @@ Steps:
 **Result:** 
 1. ✅ Bring a Graphic, UX, and UI designer onto the team. Currently working with https://www.litcollective.io/ to bring our first version of the UX/UI design, together with a branding. 
 2. ✅ Collaborate to understand the requirements of the Soroswap AMM frontend.
-3. ✅ Create the first version of the UX/UI design. First version is ready! We are just waiting for the final deliverable from the agency. Check a preview here: https://discord.com/channels/897514728459468821/1108150952499880061/1144588352616681584
-4. ⏳ Share Figma screenshots on Discord and publish the Figma files on our GitHub repository.  We are just waiting for the final deliverable from the agency. Check a preview here: https://discord.com/channels/897514728459468821/1108150952499880061/1144588352616681584
+3. ✅ Create the first version of the UX/UI design. First version is ready! Check the next point to see the final deliverables.
+4. ✅ Share Figma screenshots on Discord and publish the Figma files on our GitHub repository.
+
+Check Screenshots: https://discord.com/channels/897514728459468821/1108150952499880061/1144588352616681584
+
+Check the Figma file [here](./src/Soroswap%20Finance%20WebPage%20-%20SCF%20Deliverable.fig)
 
 ___
 ### Deliverable 5.2
