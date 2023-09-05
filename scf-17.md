@@ -67,13 +67,18 @@ ___
 # Deliverable 3: Partnerships and  inter-protocol integrations
 
 ___
-### Deliverable 3.1
+### ✅ Deliverable 3.1
 
 **Description:** Conduct research on potential partners, focusing on all current Soroban projects.
 
 **Reviewer Instructions:** Blog article posted on Discord (Stellar's Soroswap Project page) and  dev.to on how do we envision partnerships with different Soroban players
 
-**Result:** https://github.com/orgs/soroswap/projects/3?pane=issue&itemId=34075459
+**Result:** 
+✅ [Check completed issue](https://github.com/orgs/soroswap/projects/3?pane=issue&itemId=34075459)
+✅ [Check blog article in dev.to](https://dev.to/esteblock/soroswap-exploring-potential-partnerships-across-the-soroban-and-stellar-ecosystems-53k)
+✅ [Check blog article in Discord](https://discord.com/channels/897514728459468821/1108150952499880061/1148629408031191174)
+
+ 
 
 ___
 ### Deliverable 3.2
