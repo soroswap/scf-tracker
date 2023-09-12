@@ -17,7 +17,11 @@ ___
 
 **Reviewer Instructions:** Reviewer goes to docs.soroswap.finance and reads about SoroswapRouter v/s UniswapV2Router contract
 
-**Result:** In progress. Follow https://github.com/soroswap/docs/issues/8
+**Result:** 
+✅ [Check completed issue](https://github.com/soroswap/docs/issues/8)
+✅ [Read our article in docs.soroswap.finance](https://docs.soroswap.finance/02-soroswap-vs-uniswapV2/03-analizing_uniswapv2_router_contract)
+✅ [Read our article in dev.to](https://dev.to/esteblock/the-router-contract-comparison-between-soroswap-and-uniswapv2-2dmn)
+✅ [Post on Discord](https://discord.com/channels/897514728459468821/1151183431976374463/1151183431976374463)
 ___
 
 
