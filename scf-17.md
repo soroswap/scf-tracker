@@ -159,7 +159,11 @@ ___
 
 **Reviewer Instructions:** Figma screenshots will be shared on Discord and Figma files will be published on our github. Reviewer will see our reports on github.com/soroswap/scf-tracker 
 
-**Result:** 
+**Result:** Completed ✅
+
+Check Screenshots: https://discord.com/channels/897514728459468821/1108150952499880061/1144588352616681584
+
+Check the Figma [here](https://www.figma.com/file/sJ13aToLx8LnnFijBHzM73/Soroswap-Finance--WebPage---SCF-Deliverable?type=design&node-id=2040%3A3342&mode=design&t=wBw4VexObbjgHuQP-1)
 
 ___
 ### Deliverable 5.3
