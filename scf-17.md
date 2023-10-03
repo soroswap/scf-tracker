@@ -12,16 +12,16 @@ Follow our Github Project [here](https://github.com/orgs/soroswap/projects/3/)
 
 ## Deliverable 1: Router Smart Contract
 ___
-### Deliverable 1.1
+### ✅ Deliverable 1.1
 **Description:** Study and select the functionalities of the UniswapV2 Router contract to be implemented in a Soroswap Router contract, considering the limitations of Rust, Soroban, and the Token interface.
 
 **Reviewer Instructions:** Reviewer goes to docs.soroswap.finance and reads about SoroswapRouter v/s UniswapV2Router contract
 
 **Result:** 
-✅ [Check completed issue](https://github.com/soroswap/docs/issues/8)
-✅ [Read our article in docs.soroswap.finance](https://docs.soroswap.finance/02-soroswap-vs-uniswapV2/03-analizing_uniswapv2_router_contract)
-✅ [Read our article in dev.to](https://dev.to/esteblock/the-router-contract-comparison-between-soroswap-and-uniswapv2-2dmn)
-✅ [Post on Discord](https://discord.com/channels/897514728459468821/1151183431976374463/1151183431976374463)
+1. ✅ [Check completed issue](https://github.com/soroswap/docs/issues/8)
+2. ✅ [Read our article in docs.soroswap.finance](https://docs.soroswap.finance/02-soroswap-vs-uniswapV2/03-analizing_uniswapv2_router_contract)
+3. ✅ [Read our article in dev.to](https://dev.to/esteblock/the-router-contract-comparison-between-soroswap-and-uniswapv2-2dmn)
+4. ✅ [Post on Discord](https://discord.com/channels/897514728459468821/1151183431976374463/1151183431976374463)
 ___
 
 
@@ -78,9 +78,9 @@ ___
 **Reviewer Instructions:** Blog article posted on Discord (Stellar's Soroswap Project page) and  dev.to on how do we envision partnerships with different Soroban players
 
 **Result:** 
-✅ [Check completed issue](https://github.com/orgs/soroswap/projects/3?pane=issue&itemId=34075459)
-✅ [Check blog article in dev.to](https://dev.to/esteblock/soroswap-exploring-potential-partnerships-across-the-soroban-and-stellar-ecosystems-53k)
-✅ [Check blog article in Discord](https://discord.com/channels/897514728459468821/1108150952499880061/1148629408031191174)
+1. ✅ [Check completed issue](https://github.com/orgs/soroswap/projects/3?pane=issue&itemId=34075459)
+2. ✅ [Check blog article in dev.to](https://dev.to/esteblock/soroswap-exploring-potential-partnerships-across-the-soroban-and-stellar-ecosystems-53k)
+3. ✅ [Check blog article in Discord](https://discord.com/channels/897514728459468821/1108150952499880061/1148629408031191174)
 
  
 
@@ -152,7 +152,7 @@ Check Screenshots: https://discord.com/channels/897514728459468821/1108150952499
 Check the Figma [here](https://www.figma.com/file/sJ13aToLx8LnnFijBHzM73/Soroswap-Finance--WebPage---SCF-Deliverable?type=design&node-id=2040%3A3342&mode=design&t=wBw4VexObbjgHuQP-1)
 
 ___
-### Deliverable 5.2
+### ✅ Deliverable 5.2
 
 **Description:** Refine and finalize the UX/UI design.
 
