@@ -1,4 +1,4 @@
-# Soroswap's SCF#14 Submission
+# Soroswap's SCF#17 Submission
 
 Check the sumbission [here](https://communityfund.stellar.org/projects/soroswap-protocol-scf-17)
 Follow our Github Project [here](https://github.com/orgs/soroswap/projects/3/)
