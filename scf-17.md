@@ -51,6 +51,11 @@ ___
 **Reviewer Instructions:** Reviewer goes to docs.soroswap.finance and reads about SoroswapLibrary v/s UniswapV2Library contract
 
 **Result:** https://github.com/soroswap/docs/issues/10
+
+1. ✅ [Check completed issue](https://github.com/soroswap/docs/issues/10)
+2. ✅ [Read our article in docs.soroswap.finance](https://docs.soroswap.finance/02-soroswap-vs-uniswapV2/04-analizing_uniswapv2_library_contract)
+3. ✅ [Read our article in dev.to](https://dev.to/esteblock/the-library-contract-comparison-between-soroswap-and-uniswapv2-46d8)
+4. ✅ [Post on Discord](https://discord.com/channels/897514728459468821/1159114140774826066/1159114140774826066)
 ___
 ### Deliverable 2.2
 **Description:** Implement the selected functionalities and write unit and integration tests.
