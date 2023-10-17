@@ -90,13 +90,14 @@ ___
  
 
 ___
-### Deliverable 3.2
+### ✅ Deliverable 3.2
 
 **Description:** Reach out, engage in conversations, and conduct interviews with 10 potential partners.|
 
 **Reviewer Instructions:** We write on Discord on how it went
 
 **Result:** 
+1. ✅ [Check announcement on Discord](https://discord.com/channels/1122872696649285744/1126905509451141202/1163850876075659295)
 ___
 ### Deliverable 3.3
 
