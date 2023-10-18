@@ -50,7 +50,7 @@ ___
 
 **Reviewer Instructions:** Reviewer goes to docs.soroswap.finance and reads about SoroswapLibrary v/s UniswapV2Library contract
 
-**Result:** https://github.com/soroswap/docs/issues/10
+**Result:** 
 
 1. ✅ [Check completed issue](https://github.com/soroswap/docs/issues/10)
 2. ✅ [Read our article in docs.soroswap.finance](https://docs.soroswap.finance/02-soroswap-vs-uniswapV2/04-analizing_uniswapv2_library_contract)
@@ -60,9 +60,16 @@ ___
 ### Deliverable 2.2
 **Description:** Implement the selected functionalities and write unit and integration tests.
 
-**Reviewer Instructions:** Reviewer clones https://github.com/soroswap/periphery and follows the instructions in order to build and test
+**Reviewer Instructions:** Reviewer clones https://github.com/soroswap/core and follows the instructions in order to build and test
 
-**Result:** https://github.com/soroswap/core/issues/64
+**Result:** 
+
+1. ✅ [Check completed issue](https://github.com/soroswap/docs/issues/64)
+2. ✅ [Check the code on GitHub](https://github.com/soroswap/core/tree/main/contracts/library)
+3. ✅ [Check the published crate on crates.io](https://crates.io/crates/soroswap-library)
+4. ✅ [Read a Tutorial about transforming smart contract into a library in dev.to](https://dev.to/esteblock/converting-a-soroban-smart-contract-into-a-crate-library-228m)
+
+
 ___
 ### Deliverable  2.3
 
