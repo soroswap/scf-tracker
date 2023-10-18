@@ -44,7 +44,7 @@ ___
 
 # Deliverable 2: Library Smart Contract
 
-### Deliverable 2.1
+### ✅ Deliverable 2.1
 
 **Description:** Study and select the functionalities of the UniswapV2 Library contract to be implemented in a Soroswap Library contract, considering the limitations of Rust, Soroban, and the Token interface.
 
@@ -57,7 +57,7 @@ ___
 3. ✅ [Read our article in dev.to](https://dev.to/esteblock/the-library-contract-comparison-between-soroswap-and-uniswapv2-46d8)
 4. ✅ [Post on Discord](https://discord.com/channels/897514728459468821/1159114140774826066/1159114140774826066)
 ___
-### Deliverable 2.2
+### ✅ Deliverable 2.2
 **Description:** Implement the selected functionalities and write unit and integration tests.
 
 **Reviewer Instructions:** Reviewer clones https://github.com/soroswap/core and follows the instructions in order to build and test
