@@ -19,7 +19,7 @@ ___
 
 **Result:** 
 1. ✅ [Check completed issue](https://github.com/soroswap/docs/issues/8)
-2. ✅ [Read our article in docs.soroswap.finance](https://docs.soroswap.finance/02-soroswap-vs-uniswapV2/03-analizing_uniswapv2_router_contract)
+2. ✅ [Read our article in docs.soroswap.finance](https://docs.soroswap.finance/03-technical-reference/06-soroswap-vs-uniswapv2/02-soroswaprouter-comparison)
 3. ✅ [Read our article in dev.to](https://dev.to/esteblock/the-router-contract-comparison-between-soroswap-and-uniswapv2-2dmn)
 4. ✅ [Post on Discord](https://discord.com/channels/897514728459468821/1151183431976374463/1151183431976374463)
 ___
@@ -32,14 +32,15 @@ ___
 
 **Result:**  In progress. Follow https://github.com/soroswap/core/issues/63
 ___
-### Deliverable  1.3
+### ✅ Deliverable  1.3
 
 **Description:** Write documentation for the Soroswap Router.
 
 **Reviewer Instructions:** docs.soroswap.finance and github.com/soroswap/docs
 
-**Result:** TODO: Follow https://github.com/soroswap/docs/issues/9
-
+**Result:** 
+1. ✅ [Check completed issue](https://github.com/soroswap/docs/issues/9)
+2. ✅ [Read our article in docs.soroswap.finance](https://docs.soroswap.finance/03-technical-reference/04-soroswaprouter)
 ___
 
 # Deliverable 2: Library Smart Contract
@@ -53,7 +54,7 @@ ___
 **Result:** 
 
 1. ✅ [Check completed issue](https://github.com/soroswap/docs/issues/10)
-2. ✅ [Read our article in docs.soroswap.finance](https://docs.soroswap.finance/02-soroswap-vs-uniswapV2/04-analizing_uniswapv2_library_contract)
+2. ✅ [Read our article in docs.soroswap.finance](https://docs.soroswap.finance/03-technical-reference/06-soroswap-vs-uniswapv2/03-soroswaplibrary-comparison)
 3. ✅ [Read our article in dev.to](https://dev.to/esteblock/the-library-contract-comparison-between-soroswap-and-uniswapv2-46d8)
 4. ✅ [Post on Discord](https://discord.com/channels/897514728459468821/1159114140774826066/1159114140774826066)
 ___
@@ -71,13 +72,18 @@ ___
 
 
 ___
-### Deliverable  2.3
+### ✅ Deliverable  2.3
 
 **Description:** Write documentation for the Soroswap Library.
 
 **Reviewer Instructions:** docs.soroswap.finance and github.com/soroswap/docs
 
-**Result:** https://github.com/soroswap/docs/issues/11
+**Result:** 
+
+1. ✅ [Check completed issue](https://github.com/soroswap/docs/issues/11)
+2. ✅ [Read our article in docs.soroswap.finance](https://docs.soroswap.finance/03-technical-reference/03-soroswaplibrary)
+2. ✅ [Check the soroswap-library crate documentation in docs.io](https://docs.rs/soroswap-library/latest/soroswap_library/)
+2. ✅ [Check the soroswap-library crate in in crates.io](https://crates.io/crates/soroswap-library)
 ___
 
 # Deliverable 3: Partnerships and  inter-protocol integrations
