@@ -118,7 +118,7 @@ ___
 
 **Reviewer Instructions:** Discord (Stellar's Soroswap Project page),  dev.to  and Twitter
 
-**Result:** 
+**Result:** ✅ [check Announcement on Discord](https://discord.com/channels/897514728459468821/1108150952499880061/1167123282412187760)
 ___
 ### Deliverable 3.4
 
