@@ -112,40 +112,45 @@ ___
 **Result:** 
 1. ✅ [Check announcement on Discord](https://discord.com/channels/1122872696649285744/1126905509451141202/1163850876075659295)
 ___
-### Deliverable 3.3
+### ✅ Deliverable 3.3
 
 **Description:**  Choose 2 partners, write an article about our future integration, engage with the community on Discord and social media
 
 **Reviewer Instructions:** Discord (Stellar's Soroswap Project page),  dev.to  and Twitter
 
-**Result:** ✅ [check Announcement on Discord](https://discord.com/channels/897514728459468821/1108150952499880061/1167123282412187760)
+**Result:** 
+1. ✅ [check Announcement on Discord](https://discord.com/channels/897514728459468821/1108150952499880061/1167123282412187760)
+2. ✅ [Check blog article in dev.to](https://dev.to/soroswap/new-partnerships-unveiled-subquery-and-mercury-2p5h)
 ___
-### Deliverable 3.4
+### ✅ Deliverable 3.4
 
 **Description:**  Collaborate with partner A to achieve a proof-of-concept protocol integration.
 
 **Reviewer Instructions:** Reviewer will visit github.com/soroswap and locate the repository containing the code related to our partner integration. In the event that the partner is unable to disclose their code, we will publish our code (e.g., API) for transparency and collaboration purposes.
 
 **Result:** 
-
+1. ✅ [Check code on github](https://github.com/paltalabs/subquery-sandbox.git)
 ___
-### Deliverable 3.5
+### ✅ Deliverable 3.5
 
 **Description:**  Collaborate with partner B to achieve a proof-of-concept protocol integration.
 
 **Reviewer Instructions:** Reviewer will visit github.com/soroswap and locate the repository containing the code related to our partner integration. In the event that the partner is unable to disclose their code, we will publish our code (e.g., API) for transparency and collaboration purposes.
 
 **Result:** 
+1. ✅ [Check code on github](https://github.com/paltalabs/subquery-sandbox.git)
 
 ___
-### Deliverable 3.6
+### ✅ Deliverable 3.6
 
 **Description:**  Document Integration and publish code. Create content so other ecosystem participants can interact with Soroswap
 
 **Reviewer Instructions:** Reviewer visits docs.soroswap.finance, Discord and dev.to
 
 **Result:** 
-
+1. ✅ [Check blog article in dev.to](https://dev.to/devmonsterblock/collaboration-with-mercury-and-subquery-5bcg)
+2. ✅ [Check blog article in Soroswap docs](https://docs.soroswap.finance/04-partners/01-mercury-subquery)
+3. ✅ [Check blog article in Discord](https://discord.com/channels/897514728459468821/1108150952499880061/1168989761868927046)
 
 
 ## Deliverable 5: Enhance the user interface.
