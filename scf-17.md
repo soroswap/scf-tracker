@@ -124,7 +124,7 @@ ___
 ___
 ### ✅ Deliverable 3.4
 
-**Description:**  Collaborate with partner A to achieve a proof-of-concept protocol integration.
+**Description:**  Collaborate with partner A (SubQuery) to achieve a proof-of-concept protocol integration.
 
 **Reviewer Instructions:** Reviewer will visit github.com/soroswap and locate the repository containing the code related to our partner integration. In the event that the partner is unable to disclose their code, we will publish our code (e.g., API) for transparency and collaboration purposes.
 
@@ -133,12 +133,12 @@ ___
 ___
 ### ✅ Deliverable 3.5
 
-**Description:**  Collaborate with partner B to achieve a proof-of-concept protocol integration.
+**Description:**  Collaborate with partner B (Mercury) to achieve a proof-of-concept protocol integration.
 
 **Reviewer Instructions:** Reviewer will visit github.com/soroswap and locate the repository containing the code related to our partner integration. In the event that the partner is unable to disclose their code, we will publish our code (e.g., API) for transparency and collaboration purposes.
 
 **Result:** 
-1. ✅ [Check code on github](https://github.com/paltalabs/subquery-sandbox.git)
+1. ✅ [Check code on github](https://github.com/paltalabs/mercury-client.git)
 
 ___
 ### ✅ Deliverable 3.6
