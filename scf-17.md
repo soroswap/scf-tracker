@@ -190,17 +190,21 @@ Check Screenshots: https://discord.com/channels/897514728459468821/1108150952499
 Check the Figma [here](https://www.figma.com/file/sJ13aToLx8LnnFijBHzM73/Soroswap-Finance--WebPage---SCF-Deliverable?type=design&node-id=2040%3A3342&mode=design&t=wBw4VexObbjgHuQP-1)
 
 ___
-### Deliverable 5.3
+### ✅ Deliverable 5.3
+
 
 **Description:** Develop a React.js frontend, implementing the finalized design.
 
 
 **Reviewer Instructions:** Reviewer will visit soroswap.finance. Frontend works similary and shows similar information that UniswapV2 interface
 
-**Result:** In progress. Check almost all the current issues in https://github.com/soroswap/frontend/issues
+**Result:** 
+✅ Check https://github.com/soroswap/frontend/issues
+✅ Visit https://soroswap.finance
+✅ See Testnet Announcement: https://dev.to/soroswap/soroswapfinance-is-live-on-soroban-testnet--5072
 
 ___
-### Deliverable 5.4
+### ✅ Deliverable 5.4
 
 **Description:** Implement all soroban interaction with the smart contracts and the @soroban-react library
 
@@ -208,3 +212,6 @@ ___
 **Reviewer Instructions:** Reviewer will visit soroswap.finance
 
 **Result:** 
+✅ Check https://github.com/soroswap/frontend/issues
+✅ Visit https://soroswap.finance
+✅ See Testnet Announcement: https://dev.to/soroswap/soroswapfinance-is-live-on-soroban-testnet--5072
