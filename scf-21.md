@@ -13,9 +13,12 @@ Follow our Github Project [here](https://github.com/orgs/soroswap/projects/4/)
 
 **Description:** Mercury Indexer Client: Implementation of a Mercury client that will subscribe to Soroswap Contracts events and track all pairs reserves.
 
-**Reviewer Instructions:** Client code will be available in [Github](https://github.com/paltalabs/mercury-client.)
+**Reviewer Instructions:** Client code will be available in [Github](https://github.com/paltalabs/mercury-sdk)
 
-**Result:** In progress. Follow our [project](https://github.com/orgs/soroswap/projects/4/)
+**Result:** 
+1. ✅ [mercury-sdk repo](https://github.com/paltalabs/mercury-sdk)
+2. ✅ mercury-sdk docs in https://mercury-sdk.paltalabs.io/
+3. ✅ [mercury-client](https://github.com/paltalabs/mercury-client)
 
 ---
 
@@ -23,10 +26,13 @@ Follow our Github Project [here](https://github.com/orgs/soroswap/projects/4/)
 
 **Description:** Optimization algorithm: Creation and implementation of an algorithm that finds the best route for a trade It takes into account the amount to be swapped, the different paths available to go from a token A to a token B, and the reserves held on liquidity pools.
 
-**Reviewer Instructions:** Checks [Soroswap Docs](https://docs.soroswap.finance) for algorithm description and [GitHub](https://github.com/paltalabs/mercury-client) for implementation
+**Reviewer Instructions:** Checks [Soroswap Docs](https://docs.soroswap.finance) for algorithm description and [GitHub](https://github.com/soroswap/soroswap-router-sdk/) for implementation
 
-**Result:** In progress. Follow our [project](https://github.com/orgs/soroswap/projects/4/)
-
+**Result:** 
+1. ✅ [soroswap-router-sdk](https://github.com/soroswap/soroswap-router-sdk/)
+2. ✅ soroswap-router-sdk docs in https://soroswap-router-sdk.soroswap.finance/
+3. ✅ [soroswap-router-sdk npm package](https://www.npmjs.com/package/soroswap-router-sdk)
+4. ✅ [soroswap backend](https://github.com/soroswap/backend)
 ---
 
 # Deliverable 2: 🎛 AMM Aggregator
@@ -129,7 +135,7 @@ Follow our Github Project [here](https://github.com/orgs/soroswap/projects/4/)
 
 ---
 
-### Deliverable 5.1
+### ✅ Deliverable 5.1
 
 **Description:** Mercury Indexer Client: Implementation of a Mercury client that will subscribe to all Soroswap Contracts and track all types of activities in order to extract and calculate.
 
@@ -146,7 +152,10 @@ Follow our Github Project [here](https://github.com/orgs/soroswap/projects/4/)
 
 **Reviewer Instructions:** Client code will be available in https://github.com/soroswap/
 
-**Result:** In progress. Follow our [project](https://github.com/orgs/soroswap/projects/4/)
+**Result:** 
+1. ✅ [mercury-sdk repo](https://github.com/paltalabs/mercury-sdk)
+2. ✅ mercury-sdk docs in https://mercury-sdk.paltalabs.io/
+4. ✅ [soroswap backend](https://github.com/soroswap/backend)
 
 ---
 
@@ -160,4 +169,6 @@ Follow our Github Project [here](https://github.com/orgs/soroswap/projects/4/)
 
 **Reviewer Instructions:** Figma will be shared with the community on Discord
 
-**Result:** In progress. Follow our [project](https://github.com/orgs/soroswap/projects/4/)
+**Result:** 
+1. ✅ [mercury-sdk repo](https://github.com/paltalabs/mercury-sdk)
+2. ✅ [soroswap info frontend repo](https://github.com/soroswap/info)
