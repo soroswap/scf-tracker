@@ -121,7 +121,7 @@ Follow our Github Project [here](https://github.com/orgs/soroswap/projects/4/)
 
 **Result:** In progress. Follow our [project](https://github.com/orgs/soroswap/projects/4/)
 1. 🛠️ Allbridge Article on Discord, Soroswap Docs and dev.to
-2. 🛠️ Spacewalk Article on Discord, Soroswap Docs and dev.to
+2. 🛠️ Spacewalk Article on Discord, Soroswap Docs and [dev.to](https://dev.to/soroswap/bridging-stellar-with-allbridge-core-on-soroswap-new-possibilities-unveiled-1j78)
 3. ✅ [Video tutorial bridging from Polkadot to Stellar](https://www.youtube.com/watch?v=E4IR67dKxrs)
 
 ---
