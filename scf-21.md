@@ -35,7 +35,7 @@ Follow our Github Project [here](https://github.com/orgs/soroswap/projects/4/)
 4. ✅ [soroswap backend](https://github.com/soroswap/backend)
 ---
 
-# Deliverable 2: 🎛 AMM Aggregator
+# Deliverable 2: 🎛 AMM Aggregator 🚧
 
 ### Deliverable 2.1
 
@@ -43,27 +43,27 @@ Follow our Github Project [here](https://github.com/orgs/soroswap/projects/4/)
 
 **Reviewer Instructions:** Client code will be available in https://github.com/soroswap/
 
-**Result:** Waiting for Zephyr. In progress. Follow our [project](https://github.com/orgs/soroswap/projects/4/)
+**Result:** Comet is not ready, we can't implement it right now. Follow our [project](https://github.com/orgs/soroswap/projects/4/) 
 
 ---
 
-### Deliverable 2.2
+### Deliverable 2.2 🚧
 
 **Description:** Indexing of Phoenix AMM: Study of Phoenix pools and smart contracts. Index contracts using a Mercury Client.
 
 **Reviewer Instructions:** Client code will be available in https://github.com/soroswap/
 
-**Result:** Waiting for Zephyr. In progress. Follow our [project](https://github.com/orgs/soroswap/projects/4/)
+**Result:** Waiting for Zephyr, we can't implement it right now Follow our [project](https://github.com/orgs/soroswap/projects/4/)
 
 ---
 
-### Deliverable 2.3
+### Deliverable 2.3 🚧
 
 **Description:** Indexing of Stellar Classic DEX: Study and index implementation.
 
 **Reviewer Instructions:** Client code will be available in https://github.com/soroswap/
 
-**Result:** Waiting for Zephyr. In progress. Follow our [project](https://github.com/orgs/soroswap/projects/4/)
+**Result:** Waiting for Zephyr, we can't implement it right now. Follow our [project](https://github.com/orgs/soroswap/projects/4/)
 
 ---
 
@@ -165,7 +165,7 @@ Follow our Github Project [here](https://github.com/orgs/soroswap/projects/4/)
 
 ---
 
-### Deliverable 5.2
+### ✅ Deliverable 5.2
 
 **Description:** Pool Dashboard and Assets Dashboard Design: UX Design with external design agency in order to achieve similar Dashboards as
 
